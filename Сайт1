@@ -1,0 +1,55 @@
+<html>
+    <tittle>Космос</tittle>
+    <body style="font-family:sas-serif">
+        <header style="background-color:Salmon">
+            <h1 style="text-align:center">Информация о планетах</h1>
+                <h2 style="text-align:center">Снимки из космоса</h2>
+                <table style="border:1px solid blue;background-color:OrangeRed">
+                    <tr>
+                        <td></td>
+                            <td style="border:1px solid blue">Чёрные дыры</td>
+                            <td style="border:1px solid blue">Планеты</td>
+                                </tr>
+                                <tr>
+                                    <td style="border:1px solid blue">Снимки</td>
+                                    <td style="border:1px solid blue;color:Gray"><a href="#чд1">Центральная черная дыра кластера Феникс</a></td>
+                                    <td style="border:1px solid blue;color:Gray"><a href="#п1">Марс</a></td>
+                                        </tr>
+                                        <tr>
+                                            <td style="border:1px solid blue">Информация</td>
+                                            <td style="border:1px solid blue"><a href="#чд2">Центральная черная дыра кластера Феникс</a></td>
+                                            <td style="border:1px solid blue"><a href="#п2">Марс</a></td>
+                                                    </tr>
+                                                    </table>
+        </header>
+        <main style="background-color:DeepSkyBlue">
+            <h2 style="text-align:center" id="чд1">Центральная черная дыра кластера Феникс</h2>
+            <p>Кластер Феникса является одним из самых массивных из известных кластеров, большая часть его массы находится в форме темной материи и внутрикластерной среды.</p>
+            <p>Сверхмассивная черная дыра в центральной галактике скоплений качает энергию в систему. Считается, что он в 20 миллиардов раз массивнее Солнца, а его горизонт должен составлять порядка 118 миллиардов километров в диаметре.
+</p>
+<p>Данные Чандры и различные наблюдения на других длинах волн показали, что эта черная дыра растет быстро со скоростью, в 60 раз превышающей массу Солнца каждый год. Но так как он уже очень велик, этот показатель не является устойчивым. Рост не может длиться более 100 миллионов лет.</p>
+
+<a href="New-Science.ru https://new-science.ru/8-samyh-bolshih-chernyh-dyr-vo-vselennoj-soglasno-ih-solnechnym-massam/" id="чд2">Источник</a>
+<p><img src="https://avatars.dzeninfra.ru/get-zen_doc/51182/pub_5b5f20728dde0d00a8e98421_5b5f22bd443e0900a95d2d02/scale_1200"height="150px"width="270px"/> 
+<img src="https://avatars.dzeninfra.ru/get-zen_doc/49107/pub_5b5f20728dde0d00a8e98421_5b5f233924286300a954c7dc/scale_1200"height="150px"width="270px"></p>
+<h2 style="text-align:center">Марс</h2>
+<p id="п1" style="text-align:center">Марс — четвёртая по удалённости от Солнца и седьмая по размеру планета Солнечной системы; масса планеты составляет 10,7 % массы Земли. Названа в честь Марса — древнеримского бога войны, соответствующего древнегреческому Аресу. Также Марс называют «красной планетой» из-за красноватого оттенка поверхности, придаваемого ей минералом маггемитом — γ-оксидом .</p>
+<p id="п2" style="text-align:center">
+
+Марс — планета земной группы с разреженной атмосферой (давление на поверхности в 160 раз меньше земного). Особенностями поверхностного рельефа Марса можно считать ударные кратеры наподобие лунных, а также вулканы, долины, пустыни и полярные ледниковые шапки наподобие земных.</p>
+Взято с Wikipedia
+<p>
+    <img src="https://avatars.mds.yandex.net/i?id=812fb592af8cdb6411dfa067412812b22422c5a3-4560598-images-thumbs&n=13"height="150px"width="150px"/>
+     <img src="https://avatars.mds.yandex.net/i?id=063d6fa98e5e8e19759020c3cfe71fa0-4969887-images-thumbs&n=13"height="150px"width="270px"id="п1"/> 
+     <img src="https://avatars.mds.yandex.net/i?id=aa9430f38739decbee7ed5d706f89222a520ef68-7085252-images-thumbs&n=13"height="150px"width="200px"/></p>
+
+
+
+            </main>
+            <footer style="background-color:Maroon;color:white">
+                <p>Адрес автора сайта:Ул.Снежская,дом 25</p>
+                Номер телефона автора сайта:8 935 578 55 25
+
+                </footer>
+    </body>
+</html>
